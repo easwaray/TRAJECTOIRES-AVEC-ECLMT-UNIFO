@@ -1,0 +1,112 @@
+// Bienvenue dans cette simulation de trajectoires 3D
+// Quelle géométrie souhaitez vous étudier ? sphere[0]/plaque plane[1]
+0
+//
+//
+//
+// PLAQUE PLANE
+//
+// Choix de la méthode d'interpolation des vitesses parmi linear, nearest ou natural
+linear
+// Choix du moment Richards[1]/Tachikawa[2]
+2
+// Surface Ratio SR
+1
+// Longueur de la plaque L (m)
+0.1
+// Épaisseur de la plaque e (m)
+0.002
+// Gravité g (m/s²)
+9.81
+// Masse volumique de la glace rhoShimoi (kg/m3)
+917.057
+// Masse volumique de l'air (kg/m3)
+1.195
+// Abscisse du plan de visualisation X_plan (m)
+10
+// Temps de simulation
+1
+// Pas de temps
+0.001
+// Nombre de trajectoires désirées (une avec conditions initiale ou plusieurs aléatoires : si plusieurs trajectoires, ne pas rentrer de conditions initiales)
+1
+// Angle initial par rapport à l'axe z (degré)
+30
+// Angle initial par rapport à l'axe y (degré)
+20
+// Angle initial par rapport à l'axe x (degré)
+30
+// vitesse angulaire initiale P0 (x) (rad/s)
+0
+// vitesse angulaire initiale Q0 (y) (rad/s)
+0
+// vitesse angulaire initiale R0 (z) (rad/s)
+0
+// position initiale (x) (m)
+0
+// vitesse initiale (x) (m/s)
+0
+// position initiale (y) (m)
+6
+// vitesse initiale (y) (m/s)
+0
+// position initiale (z) (m)
+1
+// vitesse initiale (z) (m/s)
+0
+//
+//
+//
+// SPHÈRE
+//
+// Choix de la méthode d'interpolation des vitesses parmi linear, nearest ou natural
+linear
+// Abscisse du plan de visualisation X_plan (m)
+10
+// Temps de simulation
+2
+// Pas de temps
+0.01
+// Gravité g (m/s²)
+9.81
+// Masse volumique de la glace rhoShimoi (kg/m3)
+500
+// Masse volumique du plastique (kg/m3)
+1120
+// Diamètre de la sphère (m)
+0.08
+// Viscosité dynamique de l'air (Kg/m.s)
+0.00001
+// Masse volumique de l'air (kg/m3)
+1.195
+// Nombre de trajectoires désirées (une avec conditions initiale ou plusieurs aléatoires : si plusieurs trajectoires, ne pas rentrer de conditions initiales)
+1
+// Position initiale (x) (m)
+0
+// Vitesse initiale (x) (m/s)
+30
+// Position initiale (y) (m)
+0
+// Vitesse initiale (y) (m/s)
+0
+// Position initiale (z) (m)
+1
+// Vitesse initiale (z) (m/s)
+0
+// Tetha0 (degré)
+0
+// Vitesse angulaire initiale omega0 (rad/s)
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
